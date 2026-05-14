@@ -56,5 +56,8 @@
     "workerDirectory": [
       "public"
     ]
-  }
+  },
+  "overrides": {
+  "ws": "^8.18.3"
+}
 }
